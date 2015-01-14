@@ -1,0 +1,22 @@
+body {
+   background-color: #309609;
+   color: white;
+}
+
+div {
+  border: 1px solid;
+  margin: 0 auto;
+  padding: 20px;
+  width: 800px;
+  }
+  
+ ul li {
+    display: inline-block;
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+  ul li img {
+   border-radius: 10px;
+   }
